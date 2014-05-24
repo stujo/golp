@@ -33,6 +33,7 @@ Additional functionality may be spec'd and developed by team members!
 * Will use paperclip gem to add images to favorites
 * Will use jQuery for client side scripting
 * Will be deployed to Heroku with unicorn in a single dyno
+* Will use Rspec, Capybara and Nokogiri for Feature Tests
 
 ---
 
@@ -51,7 +52,7 @@ Additional functionality may be spec'd and developed by team members!
 
 #Story : USV Keyword Search
 
-__branch_name__: ```keyword_search```
+__branch_name__: ```basic_keyword_search```
 
 * As an Unknown Site Visitor
 * I want to be able to search for Spas
@@ -70,7 +71,7 @@ __branch_name__: ```keyword_search```
 ## Resources
 * [https://dev.locu.com/](https://dev.locu.com/)
 * [http://robots.thoughtbot.com/activemodel-form-objects](http://robots.thoughtbot.com/activemodel-form-objects)
-
+* [https://github.com/typhoeus/typhoeus](https://github.com/typhoeus/typhoeus)
 ---
 
 
