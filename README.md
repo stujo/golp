@@ -5,6 +5,7 @@
 Search, Find and Share your favorite things by location!
 
 ---
+
 #Overview
 
 Golp! allows the user to search for geographically close resources contained in the locu API and Favorite them
