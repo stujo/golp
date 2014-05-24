@@ -59,7 +59,7 @@ __branch_name__: ```basic_keyword_search```
 * So that I can add them to my list of favorited items
 
 ## Feature Spec
-1. Visits the search page ```/search```
+1. Visits the search page ```/basic_keyword_search```
 2. Enters Search Term 'Spa'
 3. USV sees a list of 5 'Restaurants' sourced from Locu (name=Spa)
 
