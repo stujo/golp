@@ -8,12 +8,15 @@ Search, Find and Share your favorite things by location!
 
 #Overview
 
-Golp! allows the user to search for geographically close resources contained in the locu API and Favorite them
+Golp! allows the user to search for geographically close resources and Favorite them
 
-Each favorite belongs to one use and contains a reference to the Locu resource as well as an optional
-description and an optional photograph
+Each favorite belongs to one user, has a location (lat,lng) and address, as well as an optional
+description, an optional photograph and an optional relationship to the Locu API
 
 Users' favorites are displayed on their profile pages along with a thumbnail of the image
+
+Resources may optionally be related to items in the Locu API
+
 
 Additional functionality may be spec'd and developed by team members!
 
